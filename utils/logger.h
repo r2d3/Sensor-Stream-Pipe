@@ -4,4 +4,5 @@
 
 #pragma once
 
+#define spdlog spdlogger
 #include <spdlog/spdlog.h>

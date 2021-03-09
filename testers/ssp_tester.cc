@@ -23,6 +23,7 @@ extern "C" {
 
 #include "../encoders/libav_encoder.h"
 #include "../structs/frame_struct.hpp"
+#include <cv.hpp>
 
 #include "../decoders/idecoder.h"
 #include "../decoders/libav_decoder.h"
